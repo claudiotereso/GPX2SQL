@@ -2,7 +2,7 @@
 
 Repo: https://github.com/claudiotereso/GPX2SQL.git
 
-Article: (add link)
+Article: https://www.sqlservercentral.com/articles/gpx-distance-and-time-analysis-in-sql-server
 
 **VERSION 1 | 12 January 2026**
 
